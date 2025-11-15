@@ -27,15 +27,15 @@ while True:
     if user_guess.isdigit():
         user_guess = int(user_guess)
     else:
-        print("Please type a number")
+        print("Please type a number ")
         continue
 
     if user_guess == random_number:
         print("You guessed right!")
         break
     elif user_guess > random_number:
-        print("Go lower")
+        print("Go lower ")
     else:
-        print("Go higher")
+        print("Go higher ")
 print("You got it in", guesses, "guesses")
 
