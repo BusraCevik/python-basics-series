@@ -17,10 +17,10 @@ Each project helps strengthen core programming skills through practical examples
 ---
 
 ## 🧩 Project List
-- [ ] Quiz Game  
-- [ ] Number Guessing Game  
-- [ ] Rock–Paper–Scissors  
-- [ ] Choose Your Own Adventure  
+- [✅] Quiz Game  
+- [✅] Number Guessing Game  
+- [✅] Rock–Paper–Scissors  
+- [✅] Choose Your Own Adventure  
 - [ ] Password Manager  
 - [ ] Pig Game  
 - [ ] Madlibs Generator  
