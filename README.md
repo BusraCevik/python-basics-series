@@ -21,10 +21,10 @@ Each project helps strengthen core programming skills through practical examples
 - [✅] Number Guessing Game  
 - [✅] Rock–Paper–Scissors  
 - [✅] Choose Your Own Adventure  
-- [ ] Password Manager  
-- [ ] Pig Game  
-- [ ] Madlibs Generator  
-- [ ] Timed Math Challenge  
+- [✅] Password Manager  
+- [✅] [Pig Game](https://github.com/BusraCevik/3-mini-python-projects/tree/main/01_pig)  
+- [✅] [Madlibs Generator](https://github.com/BusraCevik/3-mini-python-projects/tree/main/02_madlibs_generator)  
+- [✅] [Timed Math Challenge](https://github.com/BusraCevik/3-mini-python-projects/tree/main/03_timedmathchallenge)  
 - [ ] Slot Machine  
 - [ ] Turtle Racing  
 - [ ] WPM Typing Test  
