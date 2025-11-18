@@ -26,7 +26,7 @@ Each project helps strengthen core programming skills through practical examples
 - [✅] [Madlibs Generator](https://github.com/BusraCevik/3-mini-python-projects/tree/main/02_madlibs_generator)  
 - [✅] [Timed Math Challenge](https://github.com/BusraCevik/3-mini-python-projects/tree/main/03_timedmathchallenge)  
 - [✅] Slot Machine  
-- [✅] Turtle Racing  
+- [✅] Turtle Racing + OOP Version
 - [ ] WPM Typing Test  
 - [ ] Alarm Clock  
 - [ ] Password Generator  
