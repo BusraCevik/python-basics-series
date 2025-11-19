@@ -83,12 +83,11 @@ class Race:
                 break
 
         if winner_racer:
-            # Turtle'ı merkeze taşı
+
             winner_racer.penup()
             winner_racer.setpos(0, 0)
             winner_racer.pendown()
-            winner_racer.turtlesize(stretch_wid=3, stretch_len=3)  # Boyutu büyüt
-            # 360 derece dönme animasyonu
+            winner_racer.turtlesize(stretch_wid=3, stretch_len=3)
             for _ in range(20):
                 winner_racer.right(18)
                 self.screen.update()
@@ -97,7 +96,7 @@ class Race:
         pen = turtle.Turtle()
         pen.hideturtle()
         pen.penup()
-        pen.setpos(0, -50)  # Yazıyı biraz altına yaz
+        pen.setpos(0, -50)
         pen.write(f"{winner_color} wins!", align="center", font=("Arial", 24, "bold"))
 
     def start_race(self):
