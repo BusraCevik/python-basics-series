@@ -30,7 +30,7 @@ Each project helps strengthen core programming skills through practical examples
 - [✅] Turtle Racing + OOP Version
 - [✅] WPM Typing Test  
 - [✅] Alarm Clock  
-- [✅]] Password Generator
+- [✅] Password Generator
 
 ---
 
