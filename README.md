@@ -4,6 +4,7 @@ This repository contains my final series of classic Python practice projects bef
 It includes a collection of small to mid-level applications focused on fundamentals such as functions, loops, OOP, file handling, and basic algorithms.
 
 These projects are part of a video tutorial series I’m following, and I’m uploading each one here as I complete it.
+Note: While following the tutorial, I sometimes apply additional improvements or refactoring for cleaner code and better practices.
 
 ---
 
@@ -27,8 +28,8 @@ Each project helps strengthen core programming skills through practical examples
 - [✅] [Timed Math Challenge](https://github.com/BusraCevik/3-mini-python-projects/tree/main/03_timedmathchallenge)  
 - [✅] Slot Machine  
 - [✅] Turtle Racing + OOP Version
-- [ ] WPM Typing Test  
-- [ ] Alarm Clock  
+- [✅] WPM Typing Test  
+- [✅] Alarm Clock  
 - [ ] Password Generator  
 - [ ] Shortest Path Finder  
 - [ ] NBA Stats & Scores  
