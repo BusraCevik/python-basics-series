@@ -25,7 +25,7 @@ def alarm(seconds):
         print('\a', end='', flush=True)
         playsound("alarm_clocksound.mp3")
     except KeyboardInterrupt:
-        print("\nAlarm iptal edildi.")
+        print("\nAlarm canceled.")
 
 def alarm_time():
     minutes = int(input("How many minutes do you want to wait? : "))
