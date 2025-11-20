@@ -30,15 +30,7 @@ Each project helps strengthen core programming skills through practical examples
 - [✅] Turtle Racing + OOP Version
 - [✅] WPM Typing Test  
 - [✅] Alarm Clock  
-- [ ] Password Generator  
-- [ ] Shortest Path Finder  
-- [ ] NBA Stats & Scores  
-- [ ] Currency Converter  
-- [ ] YouTube Downloader  
-- [ ] Automated File Backup  
-- [ ] Mastermind / Color Match  
-- [ ] Aim Trainer  
-- [ ] Advanced Python Scripting  
+- [✅]] Password Generator
 
 ---
 
